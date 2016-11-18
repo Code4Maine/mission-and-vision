@@ -12,3 +12,5 @@ institutions to implement new services and improve delivery of existing services
 
 CfM is open and accessible to all Mainers and their friends, and encourages involvement from them to 
 foster awareness of the possibilities of technology to improve our communities.
+
+DRAFT - November 18, 2016
